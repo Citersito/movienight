@@ -84,6 +84,7 @@ btn.onclick = function(){
     titulo.style.visibility = 'visible';
     btn.style.display = 'none'
 }
+console.log(peliculas.length)
 
 
 
